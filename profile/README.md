@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://nuevoidealsa.com.ar/">
-  <img src="https://nuevoidealsa.com.ar/assets/img/logo.png" alt="Nuevo Ideal S.A." width="220">
+  <img src="./assets/logo-nuevoideal-fondo-blanco.png" alt="Nuevo Ideal S.A." width="220">
 </a>
 
 # Nuevo Ideal S.A.
